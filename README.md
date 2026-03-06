@@ -112,9 +112,9 @@
 
 | Project | Description | Tech Stack | Links |
 |---------|-------------|-----------|-------|
-| **Project 1** | Amazing web app description | React, Node, MongoDB | [Repo](link) \| [Demo](link) |
-| **Project 2** | Cool mobile app description | React Native, Firebase | [Repo](link) \| [Demo](link) |
-| **Project 3** | Awesome tool description | Python, FastAPI | [Repo](link) \| [Demo](link) |
+| **Project 1** | Smarter Detection of online Harassment using DL | Python, Pytorch, NumPy, Pandas, Scikit, Kaggle GPU |
+| **Project 2** | My Portfolio | HTML, CSS, Bootstrap Python, Django, Render(deployment)  | 
+| **Project 3** | Sorting Algorithm Visualizer | HTML, CSS, Bootstrap 
 
 </div>
 
