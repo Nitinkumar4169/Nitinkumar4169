@@ -110,7 +110,7 @@
 
 <div align="center">
 
-| Project | Description | Tech Stack | Links |
+| Project | Description | Tech Stack | 
 |---------|-------------|-----------|-------|
 | **Project 1** | Smarter Detection of online Harassment using DL | Python, Pytorch, NumPy, Pandas, Scikit, Kaggle GPU |
 | **Project 2** | My Portfolio | HTML, CSS, Bootstrap Python, Django, Render(deployment)  | 
