@@ -106,20 +106,6 @@
 
 ---
 
-## 🎯 Featured Projects
-
-<div align="center">
-
-| Project | Description | Tech Stack | 
-|---------|-------------|-----------|-------|
-| **Project 1** | Smarter Detection of online Harassment using DL | Python, Pytorch, NumPy, Pandas, Scikit, Kaggle GPU |
-| **Project 2** | My Portfolio | HTML, CSS, Bootstrap Python, Django, Render(deployment)  | 
-| **Project 3** | Sorting Algorithm Visualizer | HTML, CSS, Bootstrap 
-
-</div>
-
----
-
 ## 🏆 Achievements & Certifications
 
 <div align="center">
