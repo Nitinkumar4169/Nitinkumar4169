@@ -1,208 +1,148 @@
-<!-- Header -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=👋+Welcome+to+My+GitHub+Profile!;Full+Stack+Developer+%7C+Problem+Solver;Building+Amazing+Software+Solutions" alt="Typing SVG" />
-</div>
+<h1 align="center">Hi, I'm Nitin Kumar 👋</h1>
 
-<div align="center">
-  <a href="https://nitsaara-portfolio.onrender.com/">
-    <img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=web&logoColor=black" />
-  </a>
-  <a href="https://www.linkedin.com/in/nitin-kumar-059a80254/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://x.com/Ikigai_4169">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="nitinoffc2004@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1F3864&center=true&vCenter=true&width=650&lines=Platform+Engineering+Intern+%40+BizAXL;Automating+infra+with+Ansible%2C+Jenkins+%26+Docker;Python+%7C+AWS+%7C+Kubernetes+%7C+CI%2FCD;Applied+AI%2FML+%7C+NLP+%7C+BERT" alt="Typing SVG" />
+</p>
 
-<br>
+<p align="center">
+  <a href="https://www.linkedin.com/in/nitin-kumar-059a80254/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/veer_nitin_/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white" /></a>
+  <a href="https://www.geeksforgeeks.org/profile/veer_nitin_"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=flat&logo=geeksforgeeks&logoColor=white" /></a>
+  <a href="https://nitsaara-portfolio.onrender.com/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=render&logoColor=white" /></a>
+  <a href="mailto:nitinoffc2004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LinkedIn_Network-4%2C300%2B_followers-0077B5?style=flat&logo=linkedin&logoColor=white" />
+</p>
 
 ---
 
-## 🚀 About Me
+### 🚀 About Me
 
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitinkumar4169&theme=tokyonight&layout=compact&langs_count=8" />
+I'm a Computer Science and Engineering graduate (KNS Institute of Technology, 2026) currently working as a **Platform Engineering Intern at BizAXL Optimisations**, where I build infrastructure automation, CI/CD pipelines, and highly available systems. I've also trained in cloud computing and generative AI through Magic Bus India Foundation, and I build backend APIs and applied AI/ML projects on the side.
 
-**Full-Stack Developer** passionate about building scalable applications
-
-### Current Focus
-- 💻 Full-Stack Web Development
-- 🤖 Prompt Engineering & AI
-- 📊 Data Engineering
-- ☁️ Cloud Computing & Infrastructure
-
-### Career Aspirations
-- 👨‍💼 Become a proficient **Software Development Engineer (SDE)**
-- 🔧 Master **DevOps** practices & CI/CD pipelines
-- 🌐 Build highly scalable systems
-- 📈 Contribute to impactful open-source projects
-
-### What Drives Me
-- ⚡ Quick learner with strong problem-solving skills
-- 🎯 Attention to detail & clean code practices
-- 🌍 Open-source contribution & knowledge sharing
-- 📚 Continuous improvement mindset
-
-<br><br>
----
-
-## 🛠️ Tech Stack
-
-### **Languages**
-<div>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
-</div>
-
-### **Frontend**
-<div>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />
-</div>
-
-### **Backend & Databases**
-<div>
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-CC2927?style=flat&logo=sql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
-</div>
-
-### **Tools & Platforms**
-<div>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
- <img src="https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white" />
-</div>
+- 🔭 Currently automating **Kubernetes provisioning and multi-server Frappe deployments** using Ansible and Jenkins
+- ⚙️ Recently architected a **highly available MySQL setup (Galera Cluster + ProxySQL)** deployed via Ansible
+- 📄 Presented a research paper — *"Smart Detection of Online Harassment using Deep Learning (DEA-RNN) Models"* — at SKITE 2025 2.0, KNS Institute of Technology
+- 🌱 Learning: **UI test automation (Selenium/Playwright)** and **n8n workflow automation**
+- 💬 Ask me about: CI/CD pipelines, infrastructure-as-code, REST APIs, AWS deployments, or applied NLP
 
 ---
 
-## 📊 GitHub Statistics
+### 🛠️ Tech Stack
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Nitinkumar4169&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nitinkumar4169&theme=tokyonight&hide_border=true" />
-</div>
+**Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nitinkumar4169&theme=tokyo-night&hide_border=true" />
-</div>
+**Backend & APIs**
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat&logo=pydantic&logoColor=white)
 
----
+**Cloud & DevOps**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
 
-## 🏆 Achievements & Certifications
+**Data & Monitoring**
+![MySQL](https://img.shields.io/badge/MySQL_(Galera)-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
 
-<div align="center">
+**AI / ML**
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 
-### 📜 Professional Certifications
-
-| Certification | Issuer | Credential |
-|---------------|--------|-----------|
-| **Magic Bus AWS Cloud Foundations** | AWS & Magic Bus | [View Certificate](https://drive.google.com/drive/folders/1nS1kEFnIGXpmULZFBP4VuTisWBQ7FU7p?usp=sharing) |
-| **Oracle Cloud Infrastructure Foundations Associate** | Oracle | [View Certificate](https://drive.google.com/drive/folders/1nS1kEFnIGXpmULZFBP4VuTisWBQ7FU7p?usp=sharing) |
-| **IBM Artificial Intelligence Fundamentals** | IBM | [View Badge](https://www.credly.com/badges/37c74cfe-43e9-447a-9a94-8533a9006440/public_url) |
-
-### 💻 Coding & DSA Achievements
-
-| Platform | Achievement |
-|----------|-------------|
-| **GitHub** | 22 Repositories • 145+ Contributions |
-| **LeetCode and GeeksforGeeks** | 190+ Problems Solved |
-
-
-
-### 🎯 Key Metrics
-
-<div style="display: flex; justify-content: center; gap: 20px;">
-
-![GitHub Repos](https://img.shields.io/badge/GitHub-22%20Repositories-181717?style=flat-square&logo=github)
-![Contributions](https://img.shields.io/badge/Contributions-145+-28A745?style=flat-square&logo=github)
-![LeetCode](https://img.shields.io/badge/LeetCode-190%2B%20Solved-FFA500?style=flat-square&logo=leetcode)
-![GFG](https://img.shields.io/badge/GeeksforGeeks-190%2B%20Solved-2F8D46?style=flat-square)
-![DSA](https://img.shields.io/badge/Total%20DSA-380%2B%20Problems-FF6B6B?style=flat-square)
-![AWS](https://img.shields.io/badge/AWS-Certified-FF9900?style=flat-square&logo=amazon-aws)
-![Oracle](https://img.shields.io/badge/Oracle%20Cloud-Certified-F80000?style=flat-square&logo=oracle)
-![IBM](https://img.shields.io/badge/IBM%20AI-Certified-0F62FE?style=flat-square&logo=ibm)
-
-</div>
-
-### 🚀 Cloud & AI Expertise
-
-- ☁️ **AWS Cloud** - Certified in Foundations
-- ☁️ **Oracle Cloud** - Certified Associate
-- 🤖 **IBM AI Fundamentals** - Certified
-- 📊 **Strong DSA Foundation** - 380+ problems solved
-
-</div>
-
-## 📈 Recent Activity
-
-<div align="center">
-  
-```
-📊 This Week I spent my time on:
-- 💻 Building awesome projects
-- 📚 Learning new technologies
-- 🔍 Code reviews & collaboration
-- 🐛 Debugging & optimization
-```
-
-</div>
+**Tools**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
 ---
 
-## 💡 My Contributions
+### 💼 Experience
 
-<div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Nitinkumar4169&theme=tokyo-night&bg_color=1F2937&color=00D9FF&line=00D9FF&point=FFFFFF&hide_border=true" width="100%" />
-</div>
+**Platform Engineering Intern** — BizAXL Optimisations *(Jun 2026 – Present)*
+Automating Kubernetes cluster provisioning, architecting a highly available MySQL setup with Galera Cluster and ProxySQL, and running multi-server Frappe/ERPNext deployments across dev and staging — all via Ansible and Jenkins, following infrastructure-as-code and GitOps practices.
 
----
+**Python Full-Stack Developer Intern** — Global Quest Technologies *(Jan 2026 – May 2026)*
+Built and enhanced full-stack features with Python, Django, and PostgreSQL; designed REST APIs with SQL-based validation and Django ORM data access.
 
-## 🔗 Connect With Me
-
-<div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nitin-kumar-059a80254/)
-  [![Twitter](https://img.shields.io/badge/Follow_on_Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://x.com/Ikigai_4169)
-  [![Portfolio](https://img.shields.io/badge/Visit_My_Portfolio-00D9FF?style=for-the-badge&logo=web)](https://nitsaara-portfolio.onrender.com/)
-  [![Email](https://img.shields.io/badge/Send_Me_Email-EA4335?style=for-the-badge&logo=gmail)](nitinoffc2004@gmail.com)
-  
-</div>
+**Cloud Computing Trainee** — Magic Bus India Foundation *(May 2025 – Jul 2025)*
+210 hours of hands-on training across AWS EC2, RDS, S3, IAM, VPC, ALB, and EBS — deploying and managing cloud applications — plus hands-on exposure to Generative AI, including building AI chatbots and generating AI-based images and speech.
 
 ---
 
-## 🙏 Thank You!
+### 📌 Featured Projects
 
-<div align="center">
-  
-  **Thanks for visiting my profile!** ⭐ If you like my work, consider giving my repositories a star!
-  
-  <img src="https://komarev.com/ghpvc/?username=Nitinkumar4169&style=flat-square&color=00D9FF" />
-  
-</div>
+| Project | What it does |
+|---|---|
+| 🔗 [**Infrastructure Automation Platform**](https://github.com/Nitinkumar4169/frappe-devops) | End-to-end CI/CD pipeline automating the Frappe/ERPNext lifecycle using Jenkins and modular Ansible playbooks, triggered via GitHub webhooks. |
+| 🔗 [**Smart Expense Tracker API**](https://github.com/Nitinkumar4169/expense-tracker) | A FastAPI REST API with Pydantic validation, JSON persistence, and full pytest coverage. |
+| 🔗 [**CI/CD Pipeline Automation**](https://github.com/Nitinkumar4169/github-actions-learning) | GitHub Actions workflows deploying to AWS EC2, with SonarQube analysis and Prometheus/Grafana monitoring. |
+| 🔗 [**Personal Portfolio Website**](https://github.com/Nitinkumar4169/nitsaara-portfolio) | Full-stack Django + Bootstrap site, deployed on Render with Neon PostgreSQL. |
+| 🔗 [**Sorting Algorithm Visualizer**](https://github.com/Nitinkumar4169/Sorting-Algorithm-Visualizer) | An interactive visualizer animating Bubble, Selection, Insertion, Merge, and Quick Sort step by step. |
+| 🔗 [**E-Commerce Website (Amazon Clone)**](https://github.com/Nitinkumar4169/javascript-amazon-project) | A responsive e-commerce UI replicating core Amazon shopping-cart and checkout flows. |
+| 🤖 **Harassment Detection System** | Hybrid NLP model (BERT + DEA-RNN) for emotion-aware harassment detection, trained on the Jigsaw Toxic Comment Dataset — 96% accuracy. Presented as a research paper at SKITE 2025 2.0. *(Not yet public — happy to share code on request.)* |
 
 ---
 
-<div align="center">
-  
-### 🎵 Fun Fact
-*"Hard work always pays off! Just like debugging - patience, persistence, and the right approach lead to the solution. Let's build together! 💻🚀"*
-  
-</div>
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Nitinkumar4169&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitinkumar4169&layout=compact&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nitinkumar4169&hide_border=true" />
+</p>
+
+> These cards pull live from the GitHub API, so they always reflect current activity — no manual updates needed.
+
+---
+
+### 💻 Coding Practice
+
+| Platform | Problems Solved |
+|---|---|
+| [LeetCode](https://leetcode.com/u/veer_nitin_/) | 85 |
+| [GeeksforGeeks](https://www.geeksforgeeks.org/profile/veer_nitin_) | 148 |
+| **Combined** | **233** |
+
+Focus areas: Arrays, Two Pointers, Strings, Binary Search, Hash Tables, and Dynamic Programming.
+
+---
+
+### 📜 Certifications
+
+- [Oracle Cloud Infrastructure 2025 Foundations Associate](https://drive.google.com/file/d/1Vx1dl5sZNokcZdUc-f43_nYpH54dtq32/view?usp=sharing) — Oracle University, Nov 2025
+- [AWS Re/Start — Tech Fundamentals & Employability Skilling Programme](https://drive.google.com/file/d/1zxjcVa5jya35WVWx4_LNGB9f0sT5W5xa/view?usp=sharing) — Magic Bus India Foundation, 210 hrs OJT
+- Information Technology Fundamentals — IBM SkillsBuild
+- AI Fundamentals — IBM, Jun 2025 (NLP, Computer Vision, ML, Deep Learning, IBM Watson Studio, AI ethics)
+- Introduction to GitHub Administration — Microsoft, Jan 2025
+
+---
+
+### 📫 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/nitin-kumar-059a80254/">LinkedIn (4,300+ followers)</a> ·
+  <a href="https://leetcode.com/u/veer_nitin_/">LeetCode</a> ·
+  <a href="https://www.geeksforgeeks.org/profile/veer_nitin_">GeeksforGeeks</a> ·
+  <a href="https://nitsaara-portfolio.onrender.com/">Portfolio</a> ·
+  <a href="mailto:nitinoffc2004@gmail.com">Email</a>
+</p>
+
+<p align="center"><i>Thanks for stopping by — if any of these projects are useful to you, a ⭐ is always appreciated.</i></p>
